@@ -1,0 +1,12 @@
+{
+    "name": "alexey/bwt-test",
+    "authors": [
+        {
+            "name": "PryAl",
+            "email": "prykhodko.al@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
